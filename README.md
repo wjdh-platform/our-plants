@@ -82,6 +82,9 @@
 ---
 
 耗费工时：120分钟
+
+相关issue链接：
+如https://github.com/wjdh-platform/wjdh-mini/issues/11
 ```
 
 ### 进行任务
